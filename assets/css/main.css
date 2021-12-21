@@ -384,7 +384,7 @@ span.btn-txt {
 }
 
 .gifDownload {
-    background: url('/assets/images/download-icon.gif') center center no-repeat;
+    background: url('../images/download-icon.gif') center center no-repeat;
     width: 3em;
     height: 3em;
     outline: 2px solid #000;
